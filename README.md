@@ -35,6 +35,10 @@
 Jupyter Notebook,Pandas, NumPy, Tableau
 
 ## Visualisation
-![alt text](https://github.com/Lalitaeranki/CitiBike-Tableau/blob/master/2019-01-05_2230.png)
-![alt text](https://github.com/Lalitaeranki/CitiBike-Tableau/blob/master/2019-01-05_2231.png)
-![alt text](https://github.com/Lalitaeranki/CitiBike-Tableau/blob/master/2019-01-05_2231_001.png)
+![alt text](https://github.com/Lalitaeranki/Citibike_Tableau/blob/master/Visualizations/customer%20Vs%20Subscribers.png)
+![alt text](https://github.com/Lalitaeranki/Citibike_Tableau/blob/master/Visualizations/bike_summary.png)
+![alt text](https://github.com/Lalitaeranki/Citibike_Tableau/blob/master/Visualizations/gender_breakdown.png)
+![alt text](https://github.com/Lalitaeranki/Citibike_Tableau/blob/master/Visualizations/popular_stations.png)
+![alt text](https://github.com/Lalitaeranki/Citibike_Tableau/blob/master/Visualizations/starting%20and%20ending%20stations.png)
+
+
